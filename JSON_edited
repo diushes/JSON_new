@@ -1,0 +1,25 @@
+{
+"name":"Aiana",
+"age":17,
+"zodiac sign":"Sagittarius",
+"place of study":"Ala-Too university",
+"faculty":"Engineering&Computer Science",
+"course":1,
+"hobbies":[
+  {
+  "name of hobby":"Sleeping"
+  "time devoted":"up to 72 hours per week"
+  },
+  {
+  "name of hobby":"Drawing"
+  "time devoted":"3-4 hours per week"
+  },
+  {
+  "name of hobby":"Eating"
+  "time devoted":"the rest of time"
+   }
+  ]
+ }
+
+
+
